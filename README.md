@@ -1,1 +1,1 @@
-# Power-BI
+This repository contains the Power BI dashboard for the Super Store Sales Dashboard. The dashboard provides a comprehensive analysis of sales data, including insights into sales performance, customer demographics, product categories, and geographical trends.
